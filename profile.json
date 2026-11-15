@@ -1,5 +1,5 @@
 {
-  "github_user": "Bossgod360",
+  "github_user": "aryankhimani",
   "first_name": "Aryan",
   "last_name": "Khimani",
   "tagline": [
@@ -11,16 +11,16 @@
 
   "track_record": [
     { "when": "2025 –",  "title": "Building TruthLens",
-      "sub": "Explainable misinformation detection with RoBERTa + RAG", "tag": "building" },
+      "sub": "AI that detects and explains misinformation, RoBERTa + RAG", "tag": "building" },
     { "when": "2025 –",  "title": "Director, Western Founders Network",
       "sub": "Ran Western's largest tech case competition, 200+ students", "tag": "leading" },
-    { "when": "2024",    "title": "Research intern, Okamoto Lab · Mount Sinai",
-      "sub": "Computer-vision pipelines that track mice with SLEAP", "tag": "research" },
+    { "when": "2024",    "title": "AI research intern, Mount Sinai Hospital",
+      "sub": "Computer-vision pipelines that automate video analysis", "tag": "ai research" },
     { "when": "2022–23", "title": "Co-founder, JoeyHelps",
       "sub": "Deloitte-sponsored mental-health platform for Gen Z", "tag": "founder" },
-    { "when": "2022–23", "title": "Youreka genetics study",
-      "sub": "RNA-seq trauma analysis · regional winner, national finalist", "tag": "research" }
+    { "when": "2022–23", "title": "Youreka research competition",
+      "sub": "Data pipeline on gene expression · national finalist", "tag": "research" }
   ],
 
-  "hide_repos": ["Bossgod360"]
+  "hide_repos": ["aryankhimani"]
 }
