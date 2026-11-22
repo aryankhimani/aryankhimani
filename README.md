@@ -10,7 +10,7 @@
 
 <img src="./assets/activity.svg?v=82007a38" width="100%" alt="My GitHub contributions over the last year">
 
-<a href="https://github.com/aryankhimani?tab=repositories"><img src="./assets/repos.svg?v=5d7c3b68" width="100%" alt="My most recently updated repositories"></a>
+<a href="https://github.com/aryankhimani?tab=repositories"><img src="./assets/repos.svg?v=4c45e21a" width="100%" alt="My most recently updated repositories"></a>
 
 <p align="center">
   <code>python · pytorch · tensorflow · opencv · react · fastapi · docker</code>
