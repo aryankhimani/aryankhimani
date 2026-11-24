@@ -8,7 +8,7 @@
 
 <img src="./assets/track-record.svg?v=516a6822" width="100%" alt="Track record: TruthLens, Western Founders Network, Mount Sinai, JoeyHelps, Youreka">
 
-<img src="./assets/activity.svg?v=c0a8d8a3" width="100%" alt="My GitHub contributions over the last year">
+<img src="./assets/activity.svg?v=8b471197" width="100%" alt="My GitHub contributions over the last year">
 
 <a href="https://github.com/aryankhimani?tab=repositories"><img src="./assets/repos.svg?v=5108ea02" width="100%" alt="My most recently updated repositories"></a>
 
