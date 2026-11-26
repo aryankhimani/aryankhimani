@@ -8,9 +8,9 @@
 
 <img src="./assets/track-record.svg?v=516a6822" width="100%" alt="Track record: TruthLens, Western Founders Network, Mount Sinai, JoeyHelps, Youreka">
 
-<img src="./assets/activity.svg?v=64d75324" width="100%" alt="My GitHub contributions over the last year">
+<img src="./assets/activity.svg?v=cfeb116e" width="100%" alt="My GitHub contributions over the last year">
 
-<a href="https://github.com/aryankhimani?tab=repositories"><img src="./assets/repos.svg?v=2872fe4d" width="100%" alt="My most recently updated repositories"></a>
+<a href="https://github.com/aryankhimani?tab=repositories"><img src="./assets/repos.svg?v=c30fae58" width="100%" alt="My most recently updated repositories"></a>
 
 <p align="center">
   <code>python · pytorch · tensorflow · opencv · react · fastapi · docker</code>
